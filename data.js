@@ -1,9 +1,9 @@
 const racketsData = [
     {
         "id": 1,
-        "marque": "Abros",
-        "gamme": "Volaras 7",
-        "numero_ittf": "205-001",
+        "marque": "Test",
+        "gamme": "Papa 7",
+        "numero_ittf": "Ethan",
         "picots": "In",
         "couleurs": "Black",
         "expires_on": ""
@@ -33353,4 +33353,5 @@ const racketsData = [
         "couleurs": "Red",
         "expires_on": ""
     }
+
 ];
