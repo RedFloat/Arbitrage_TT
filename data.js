@@ -1,3 +1,5 @@
+const lastUpdate = "28/12/2025 à 19:07";
+
 const racketsData = [
     {
         "id": 1,
@@ -33355,6 +33357,7 @@ const racketsData = [
     }
 
 ];
+
 
 
 
