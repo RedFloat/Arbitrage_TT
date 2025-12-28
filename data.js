@@ -2,7 +2,7 @@ const racketsData = [
     {
         "id": 1,
         "marque": "Test",
-        "gamme": "ethan 7",
+        "gamme": "papa 7",
         "numero_ittf": "Ethan",
         "picots": "In",
         "couleurs": "Black",
@@ -33355,5 +33355,6 @@ const racketsData = [
     }
 
 ];
+
 
 
