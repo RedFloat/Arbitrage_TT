@@ -1,4 +1,4 @@
-const lastUpdate = "28/12/2025 à 19:07";
+const lastUpdate = "28/12/2025 à 21:10";
 
 const racketsData = [
     {
@@ -33357,6 +33357,7 @@ const racketsData = [
     }
 
 ];
+
 
 
 
