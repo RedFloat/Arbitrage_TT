@@ -1,4 +1,4 @@
-const lastUpdate = "28/12/2025 à 22:"00;
+const lastUpdate = "28/12/2025 à 22:15";
 const rawData = [
     {
         "marque": "Abros",
